@@ -3,8 +3,14 @@
     font-size: 1.25vw;
 }
 
+/* ANCHOR below seems to remove right and left margin */
+/* body {
+    margin: 0;
+} */
+
 #navbar {
     background-color: #FFFFFF;
+    /* margin-left: -0.6%; */
 }
 
 #eureka-logo {
@@ -57,7 +63,7 @@
 
 #section-2 {
     /* below margin top is kind of jenky, quick fix to having white space between divs */
-    margin-top: -2.4%;
+    /* margin-top: -2.4%; */
     background: #ECEDF1;
 }
 
@@ -69,4 +75,44 @@
 
 #section-2-top-text {
     text-align: center;
+    font-size: 1.8vw
+}
+
+#section-6 {
+    background-color: #3D67FF;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#section-6-header {
+    padding-top: 5%;
+    font-size: 3.4vw;
+}
+
+#section-6-apple-logo {
+    padding-bottom: 5%;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+#eureka-logo-in-footer{
+    padding-top: 1.5%;
+    margin-left: 10.7%;
+    font-size:3vw;
+}
+
+#company-address{
+    margin-left: 10.7%;
+}
+
+#footer-links{
+    margin-top: 7.5%;
+    float: right;
+}
+
+.footer-link{
+    display: inline;
 }
