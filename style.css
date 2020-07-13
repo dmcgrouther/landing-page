@@ -54,3 +54,19 @@
     padding-top: 7.5%;
     width: 35vw;
 }
+
+#section-2 {
+    /* below margin top is kind of jenky, quick fix to having white space between divs */
+    margin-top: -2.4%;
+    background: #ECEDF1;
+}
+
+#section-2-header {
+    padding-top: 5%;
+    font-size: 3.4vw;
+    text-align: center;
+}
+
+#section-2-top-text {
+    text-align: center;
+}
