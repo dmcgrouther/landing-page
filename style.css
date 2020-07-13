@@ -98,6 +98,16 @@ footer{
     color: white;
 }
 
+#footer-links{
+    margin-top: 7.5%;
+    float: right;
+    margin-right: 11%;
+}
+
+.footer-link{
+    display: inline;
+}
+
 #eureka-logo-in-footer{
     padding-top: 1.5%;
     margin-left: 10.7%;
@@ -106,13 +116,5 @@ footer{
 
 #company-address{
     margin-left: 10.7%;
-}
-
-#footer-links{
-    margin-top: 7.5%;
-    float: right;
-}
-
-.footer-link{
-    display: inline;
+    padding-bottom: 2%;
 }
