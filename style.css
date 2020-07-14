@@ -70,9 +70,10 @@
 }
 
 #section-2 {
-    /* below margin top is kind of jenky, quick fix to having white space between divs */
-    /* margin-top: -2.4%; */
-    background: #ECEDF1;
+    margin-right: -1.62%;
+    margin-left: -1.62%;
+    margin-top: -2.5%;
+    background: #00a396;
 }
 
 #section-2-header {
@@ -84,6 +85,10 @@
 #section-2-top-text {
     text-align: center;
     font-size: 1.8vw
+}
+
+.advantage-picture{
+    width: 8vw;
 }
 
 #section-4 {
