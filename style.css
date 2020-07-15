@@ -94,9 +94,20 @@
 
 .column {
     float: left;
-    width: 25%;
+    width: 20%;
     text-align: center;
+}
+
+#column-1{
+    margin-left: 14.5%;
+}
+
+#column-2 {
     margin-left: 6.5%;
+}
+
+#column-3 {
+    margin-left: 6.5%; 
 }
 
 .advantage-picture{
