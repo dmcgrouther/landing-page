@@ -8,6 +8,10 @@
     margin: 0;
 } */
 
+.main-layout {
+    height: 100vh;
+}
+
 #navbar {
     background-color: #FFFFFF;
     /* margin-left: -0.6%; */
