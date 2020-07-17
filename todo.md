@@ -4,7 +4,4 @@ get correct images
 make margins on navbar prescise. right and left to 10.5%...
 
 
-possible fix to white space after footer:
-body {
-    background-color: black;
-}
+no tab for contact us. 
