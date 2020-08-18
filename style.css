@@ -156,15 +156,33 @@
     margin-top: -2.5%;
 }
 
-#iphone {
+/* #iphone {
     float: left;
     margin-left: 15%;
     margin-top: 5%;
     width: 22vw;
+} */
+
+#iphone-half-1 {
+    float: left;
+    margin-left: 10%;
+    width: 32.5vw;
+    /* margin-top: 4.77%; */
+    margin-top: -22.7%;
+    /* margin-top: -24%; */
 }
 
+@media only screen and (max-width: 600px) {
+    /* body {
+      background-color: lightblue;
+    } */
+    #iphone-half-1 {
+        margin-top: -24%;
+    }
+  }
+
 #section-4-header {
-    padding-top: 16%;
+    padding-top: 11%;
     margin-left: 48%;
     font-size: 3.2vw;
     color: #323232;
@@ -177,8 +195,8 @@
 }
 
 #third-app-store-logo {
-    margin-left: 11.4%;
-    margin-bottom: 16%;
+    margin-left: 7.1%;
+    margin-bottom: 10%;
 }
 
 #section-6 {
