@@ -66,11 +66,18 @@
     margin-left: 10.7%;
 }
 
-#home-picture {
+/* #home-picture {
     float: right;
     margin-right: 11%;
     padding-top: 7.5%;
     width: 35vw;
+} */
+
+#house-picture {
+    float: right;
+    /* margin-right: 1%; */
+    padding-top: 6.5%;
+    width: 52vw;
 }
 
 #section-2 {
@@ -220,12 +227,12 @@
 }
 
 #section-6-header {
-    padding-top: 5%;
+    padding-top: 7%;
     font-size: 3.4vw;
 }
 
 #section-6-apple-logo {
-    padding-bottom: 5%;
+    padding-bottom: 8%;
 }
 
 footer{
