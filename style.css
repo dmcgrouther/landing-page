@@ -7,14 +7,22 @@
     height: 100vh;
 }
 
-#eureka-logo {
+/* #eureka-logo {
     margin-left: 10.7%;
     margin-top: 3.4%;
     font-size: 4vw;
     color: #3D67FF;
     float: left;
     font-weight: bold;
+} */
+
+#eureka-logo {
+    margin-left: 10.7%;
+    margin-top: 3.8%;
+    float: left;
+    width: 11.5vw;
 }
+
 
 #navbar {
     background-color: #FFFFFF;
@@ -88,15 +96,17 @@
 }
 
 #section-2-header {
-    padding-top: 5%;
+    padding-top: 6.5%;
+    margin-left: 14.5%;
     font-size: 3.4vw;
-    text-align: center;
+    text-align: left;
 }
 
 #section-2-top-text {
-    text-align: center;
+    text-align: left;
     font-size: 1.8vw;
-    margin-bottom: 7%;
+    margin-bottom: 6%;
+    margin-left: 14.5%;
 }
 
 #column-portion{
@@ -106,7 +116,8 @@
 .column {
     float: left;
     width: 20%;
-    text-align: center;
+    text-align: left;
+    /* text-align: center; */
 }
 
 #column-1{
