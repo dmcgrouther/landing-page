@@ -142,8 +142,8 @@ a:hover, a:visited, a:link, a:active
 }
 
 #section-3 {
-    background-color: #F7F7F7;
-    background-color: firebrick;
+    background-color: #ffffff;
+    /* background-color: firebrick; */
     margin-right: -2.5%;
     margin-left: -2.5%;
     margin-top: -2.5%;
@@ -152,8 +152,8 @@ a:hover, a:visited, a:link, a:active
 
 #section-3-header {
     padding-top: 5%;
+    margin-left: 10.7%;
     font-size: 3.4vw;
-    text-align: center;
 }
 
 #picture-area {
@@ -161,15 +161,23 @@ a:hover, a:visited, a:link, a:active
 }
 
 #gallery-picture-1{
-    margin-left: 1.5%;
+    margin-left: 10.7%;
 }
 
 .gallery-picture {
     height: 16.4vw;
-
+    margin-left: 2%;
     /* display: inline-block; */
     /* margin-left: 2.5%;
     margin-left: 1%; */
+}
+
+.house-set-1 {
+    display: visible;
+}
+
+.house-set-2 {
+    display: none;
 }
 
 #section-4 {
@@ -178,13 +186,6 @@ a:hover, a:visited, a:link, a:active
     margin-left: -2.5%;
     margin-top: -2.5%;
 }
-
-/* #iphone {
-    float: left;
-    margin-left: 15%;
-    margin-top: 5%;
-    width: 22vw;
-} */
 
 #iphone-half-1 {
     float: left;
@@ -252,7 +253,7 @@ a:hover, a:visited, a:link, a:active
 }
 
 footer{
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     color: white;
     margin-right: -2.5%;
     margin-left: -2.5%;
@@ -263,7 +264,9 @@ footer{
 /* prior stuff commented below */
 
 #footer-links{
-    margin-top: 7.5%;
+    margin-top: 6.5%;
+    /* margin-top: 7.5%; */
+    /* margin-top: 1.5%; */
     float: right;
     margin-right: 7.5%;
 }
@@ -274,7 +277,8 @@ footer{
 }
 
 #eureka-logo-in-footer{
-    padding-top: 1.5%;
+    /* padding-top: 1.5%; */
+    /* padding-top: -3%; */
     margin-left: 10.7%;
     font-size:3vw;
     padding-bottom: 0; 
