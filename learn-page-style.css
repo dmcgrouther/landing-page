@@ -1,0 +1,36 @@
+.learn-page-main-layout {
+    height: 100vh;
+}
+
+.learn-page__section-1{
+    margin-left: -0.55%;
+    margin-right: -0.55%;
+    margin-top: -0.55%;
+}
+
+.learn-page__top-picture{
+    height: 52.15vw;
+}
+
+.learn-page__section-2 {
+    background-color: white;
+    margin-left: -0.55%;
+    margin-right: -0.55%;
+    margin-top: -0.55%;
+}
+
+.learn-page__section-2__header {
+    color: black;
+}
+
+.learn-page__section-2__article {
+
+} 
+
+.learn-page__section-2__article__header {
+    color: #323232;
+}
+
+.learn-page__section-2__article__wording{
+    color: #848484;
+}
