@@ -13,3 +13,14 @@ privacy first, needs an extra line seperating the header from other text
 make footer less tall. put this part "@ 2020. All Rights Reserved. Terms of Services Privacy Policy
 "
 on same line as san francisco ca
+
+
+
+
+
+
+
+contact form
+switch up formspree link so its accurate.
+
+put in error for form
