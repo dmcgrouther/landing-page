@@ -24,3 +24,4 @@ contact form
 switch up formspree link so its accurate.
 
 put in error for form
+do anything with the email listed on that page?

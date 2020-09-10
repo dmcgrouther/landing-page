@@ -1,3 +1,7 @@
+.faq-contct-us__main-layout{
+    height: 100vh;
+}
+
 .faq-contct-us__top-picture{
     margin-left: -0.55%;
     margin-right: -0.55%;
@@ -9,26 +13,39 @@
     background-color: #23232D;
     margin-left: -0.55%;
     margin-right: -1.1%;
-    margin-top: -0.55%;
+    margin-top: -4.5vh;
 }
 
 .faq-contct-us__section-2__header{
+    margin-top: 20vh;
+    margin-left: 6vw;
     color: #D6BB9C;
+    font-size: 1.4vw;
 }
 
 .faq-contct-us__section-2__second-header{
     color: #FFFFFF;
+    margin-left: 6vw;
+    font-size: 3.4vw;
     /* color: red; */
 }
 
 .faq-contct-us__section-2__sentence{
     color: #FFFFFF;
+    margin-left: 6vw;
     /* color: red; */
 }
 
 .faq-contct-us__section-2__general-inquiries{
     color: white;
+    margin-left: 6vw;
+    margin-top: 5vh;
     /* color: red; */
+}
+
+.faq-contct-us__section-2__email-address{
+    margin-left: 6vw;
+    color: blue;
 }
 
 
@@ -36,19 +53,19 @@
     background-color: #23232D;
     float: left;
     width: 50%;
-    height: 35vh;
+    height: 90vh;
   }
   
   /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 600px) {
+  /* @media screen and (max-width: 600px) {
     .faq-contct-us__section-2__column {
       width: 100%;
     }
-  }
+  } */
 
 .faq-contct-us__section-2__form{
-    margin-top: 10%;
-    margin-left: 5%;
+    margin-top: 15vh;
+    margin-left: 4vw;
     background-color: #D6BB9C;
     width: 70%;
     border-radius: 4px;
@@ -71,7 +88,7 @@
 
 .faq-contct-us__section-2__form__message{
     width: 29vw;
-    height: 15vh;
+    height: 20vh;
     margin-left: 2.5vw;
 }
 
@@ -80,4 +97,46 @@
     margin-bottom: 3vw;
     margin-left: 20vw;
     font-size: 2.5vw;
+}
+
+
+
+footer{
+    background-color: #000000;
+    color: white;
+}
+
+#footer-links{
+    padding-top: 5vh;
+    float: right;
+    margin-right: 7.5vw;
+}
+
+.footer-link{
+    display: inline;
+    font-size: 1.0vw;
+}
+
+#eureka-logo-in-footer{
+    margin-left: 6vw;
+    font-size:3vw;
+    padding-bottom: 0; 
+    margin-bottom: 0;
+}
+
+#company-address{
+    margin-left: 6vw;
+    padding-bottom: 0%;
+    padding-top: 0; 
+    margin-top: 0;
+    padding-bottom: 0; 
+    margin-bottom: 0;
+}
+
+#by-eureka {
+    margin-left: 6vw;
+    padding-top: 0;
+    margin-top: 0;
+    font-size: 1.3vw;
+    padding-bottom: 3vh;
 }
