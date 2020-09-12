@@ -20,10 +20,5 @@ on same line as san francisco ca
 
 
 
-contact form
-switch up formspree link so its accurate.
-put in error for form
-do anything with the email listed on that page?
-change up the footer to bem styling?
-footer needs tweaking?
-nav bar not displaying as i would like it to
+contact form --- put in error for form?
+footer: change up the footer to bem styling? footer needs general tweaking to look good.

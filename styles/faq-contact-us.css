@@ -23,10 +23,6 @@
     width: 9.5vw;
 }
 
-ul {
-    list-style-type: none;
-}
-
 .top-section__page-list{
     position: absolute;
     width: 99%;
@@ -41,6 +37,19 @@ ul {
     font-size: 1.5vw;
     margin-left: 3.5%;
     color: black;
+}
+
+a{
+    text-decoration:none;
+}
+
+.top-section__header{
+    position: absolute;
+    top: 0;
+    margin-top: 18%;
+    margin-left: 25%;
+    font-size: 3vw;
+    color: white;
 }
 
 .faq-contct-us__section-2 {
