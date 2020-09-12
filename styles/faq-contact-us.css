@@ -1,8 +1,8 @@
-.faq-contct-us__main-layout{
+.faq-contact-us__main-layout{
     height: 100vh;
 }
 
-.faq-contct-us__top-picture{
+.faq-contact-us__top-picture{
     position: relative; 
     /* position relative is to have logo over this https://www.sitepoint.com/community/t/place-an-image-over-an-image/4264 */
     margin-left: -0.55%;
@@ -52,47 +52,47 @@ a{
     color: white;
 }
 
-.faq-contct-us__section-2 {
+.faq-contact-us__section-2 {
     background-color: #23232D;
     margin-left: -0.55%;
     margin-right: -1.1%;
     margin-top: -4.5vh;
 }
 
-.faq-contct-us__section-2__header{
+.faq-contact-us__section-2__header{
     margin-top: 20vh;
     margin-left: 6vw;
     color: #D6BB9C;
     font-size: 1.4vw;
 }
 
-.faq-contct-us__section-2__second-header{
+.faq-contact-us__section-2__second-header{
     color: #FFFFFF;
     margin-left: 6vw;
     font-size: 3.4vw;
     /* color: red; */
 }
 
-.faq-contct-us__section-2__sentence{
+.faq-contact-us__section-2__sentence{
     color: #FFFFFF;
     margin-left: 6vw;
     /* color: red; */
 }
 
-.faq-contct-us__section-2__general-inquiries{
+.faq-contact-us__section-2__general-inquiries{
     color: white;
     margin-left: 6vw;
     margin-top: 5vh;
     /* color: red; */
 }
 
-.faq-contct-us__section-2__email-address{
+.faq-contact-us__section-2__email-address{
     margin-left: 6vw;
     color: blue;
 }
 
 
-.faq-contct-us__section-2__column {
+.faq-contact-us__section-2__column {
     background-color: #23232D;
     float: left;
     width: 50%;
@@ -106,7 +106,7 @@ a{
     }
   } */
 
-.faq-contct-us__section-2__form{
+.faq-contact-us__section-2__form{
     margin-top: 15vh;
     margin-left: 4vw;
     background-color: #D6BB9C;
@@ -114,28 +114,28 @@ a{
     border-radius: 4px;
 }
 
-.faq-contct-us__section-2__form__input{
+.faq-contact-us__section-2__form__input{
     width: 29vw;
     margin-left: 2.5vw;
     margin-bottom: 0.8vw;
 }
 
-.faq-contct-us__section-2__form__label__first-label{
+.faq-contact-us__section-2__form__label__first-label{
     margin-left: 2.5vw;
     /* margin-left: 2.5vw; */
 }
 
-.faq-contct-us__section-2__form__label{
+.faq-contact-us__section-2__form__label{
     margin-left: 2.5vw;
 }
 
-.faq-contct-us__section-2__form__message{
+.faq-contact-us__section-2__form__message{
     width: 29vw;
     height: 20vh;
     margin-left: 2.5vw;
 }
 
-.faq-contct-us__section-2__form__button{
+.faq-contact-us__section-2__form__button{
     margin-top: 1.2vw;
     margin-bottom: 3vw;
     margin-left: 20vw;
