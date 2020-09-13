@@ -11,7 +11,8 @@
     width: 100.55vw;
 }
 
-.top-section__invest-logo{
+/* .top-section__invest-logo{ */
+.header__invest-logo{
     position: absolute;
     top: 0;
     margin-left: 6vw;
@@ -23,7 +24,8 @@
     width: 9.5vw;
 }
 
-.top-section__page-list{
+/* .top-section__page-list{ */
+.header__page-list{
     position: absolute;
     width: 99%;
     right: 8vw;
@@ -31,8 +33,8 @@
     text-align: right;
 }
 
-
-.top-section__page-list__item{
+.header__page-list__item{
+/* .top-section__page-list__item{ */
     display: inline-block;
     font-size: 1.5vw;
     margin-left: 3.5%;
@@ -43,11 +45,71 @@ a{
     text-decoration:none;
 }
 
-.top-section__header{
+.section-1__header{
     position: absolute;
     top: 0;
     margin-top: 18%;
     margin-left: 6vw;
     font-size: 3vw;
     color: black;
+}
+
+.section-1__text{
+    position: absolute;
+    top: 0;
+    margin-top: 27%;
+    margin-left: 6vw;
+    font-size: 1.7vw;
+}
+
+.section-1__apple-logo{
+    position: absolute;
+    top: 0;
+    margin-top: 35%;
+    margin-left: 6vw;
+}
+
+
+
+.section-2__header{
+    margin-top: 8%;
+    margin-left: 6vw;
+    font-size: 3vw;
+}
+
+.section-2__text{
+    margin-top: 2%;
+    margin-left: 6vw;
+    font-size: 1.7vw;
+}
+
+
+.section-2__column-area{
+    padding-bottom: 28%;
+}
+
+.section-2__column {
+    float: left;
+    width: 20%;
+    text-align: left;
+}
+
+#column-1{
+    margin-left: 10.7%;
+}
+
+#column-2 {
+    margin-left: 6.5%;
+}
+
+#column-2-header {
+    margin-bottom: 3%;
+}
+
+#column-3 {
+    margin-left: 6.5%; 
+}
+
+.section-2__advantage-picture{
+    width: 8vw;
 }
