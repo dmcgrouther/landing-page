@@ -1,0 +1,53 @@
+.index-2__main-layout {
+    height: 100vh;
+}
+
+.index-2__top-picture{
+    position: relative; 
+    /* position relative is to have logo over this https://www.sitepoint.com/community/t/place-an-image-over-an-image/4264 */
+    margin-left: -0.55%;
+    margin-right: -0.55%;
+    margin-top: -0.55%;
+    width: 100.55vw;
+}
+
+.top-section__invest-logo{
+    position: absolute;
+    top: 0;
+    margin-left: 6vw;
+    margin-top: 3vh;
+    width: 10vw;
+}
+
+.apple-store-logo{
+    width: 9.5vw;
+}
+
+.top-section__page-list{
+    position: absolute;
+    width: 99%;
+    right: 8vw;
+    top: 1%;
+    text-align: right;
+}
+
+
+.top-section__page-list__item{
+    display: inline-block;
+    font-size: 1.5vw;
+    margin-left: 3.5%;
+    color: black;
+}
+
+a{
+    text-decoration:none;
+}
+
+.top-section__header{
+    position: absolute;
+    top: 0;
+    margin-top: 18%;
+    margin-left: 6vw;
+    font-size: 3vw;
+    color: black;
+}
