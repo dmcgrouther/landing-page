@@ -113,3 +113,8 @@ a{
 .section-2__advantage-picture{
     width: 8vw;
 }
+
+.section-3__picture{
+    margin-left: -0.7%;
+    width: 101vw;
+}
