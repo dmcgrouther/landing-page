@@ -22,3 +22,4 @@ on same line as san francisco ca
 
 contact form --- put in error for form?
 footer: change up the footer to bem styling? footer needs general tweaking to look good.
+center header better
