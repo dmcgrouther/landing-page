@@ -146,7 +146,7 @@ a{
     margin-top: 20vh;
     margin-left: 6vw;
     color: #D6BB9C;
-    font-size: 1.4vw;
+    font-size: 2vw;
 }
 
 .faq-contact-us__section-2__second-header{
@@ -159,19 +159,20 @@ a{
 .faq-contact-us__section-2__sentence{
     color: #FFFFFF;
     margin-left: 6vw;
-    /* color: red; */
+    font-size: 1.5vw;
 }
 
 .faq-contact-us__section-2__general-inquiries{
     color: white;
     margin-left: 6vw;
     margin-top: 5vh;
-    /* color: red; */
+    font-size: 1.5vw;
 }
 
 .faq-contact-us__section-2__email-address{
     margin-left: 6vw;
     color: white;
+    font-size: 1.5vw;
 }
 
 
@@ -205,10 +206,12 @@ a{
 
 .faq-contact-us__section-2__form__label__first-label{
     margin-left: 2.5vw;
+    font-size: 1.5vw;
 }
 
 .faq-contact-us__section-2__form__label{
     margin-left: 2.5vw;
+    font-size: 1.5vw;
 }
 
 .faq-contact-us__section-2__form__message{
