@@ -81,11 +81,12 @@ a{
     margin-top: 2%;
     margin-left: 6vw;
     font-size: 1.7vw;
+    margin-bottom: 7vw;
 }
 
 
 .section-2__column-area{
-    padding-bottom: 28%;
+    padding-bottom: 26%;
 }
 
 .section-2__column {
@@ -94,8 +95,16 @@ a{
     text-align: left;
 }
 
+.section-2__column-header{
+    font-size: 1.5vw;
+}
+
+.section-2__column-text{
+    font-size: 1.3vw;
+}
+
 #column-1{
-    margin-left: 10.7%;
+    margin-left: 6vw;
 }
 
 #column-2 {
