@@ -1,0 +1,214 @@
+.index-2__main-layout {
+    height: 100vh;
+}
+
+.index-2__top-picture{
+    position: relative; 
+    /* position relative is to have logo over this https://www.sitepoint.com/community/t/place-an-image-over-an-image/4264 */
+    /* margin-left: -0.55%;
+    margin-right: -0.55%;
+    margin-top: -0.55%; */
+    margin: -2.1vw;
+    padding: 0%;
+    width: 102.1vw;
+}
+
+/* .top-section__invest-logo{ */
+.header__invest-logo{
+    position: absolute;
+    top: 0;
+    margin-left: 6vw;
+    margin-top: 3vh;
+    width: 10vw;
+}
+
+.apple-store-logo{
+    width: 9.5vw;
+}
+
+/* .top-section__page-list{ */
+.header__page-list{
+    position: absolute;
+    width: 99%;
+    right: 8vw;
+    top: 1%;
+    text-align: right;
+}
+
+.header__page-list__item{
+/* .top-section__page-list__item{ */
+    display: inline-block;
+    font-size: 1.5vw;
+    margin-left: 3.5%;
+    color: black;
+}
+
+a{
+    text-decoration:none;
+}
+
+.section-1__header{
+    position: absolute;
+    top: 0;
+    margin-top: 18%;
+    margin-left: 6vw;
+    font-size: 3vw;
+    color: black;
+}
+
+.section-1__text{
+    position: absolute;
+    top: 0;
+    margin-top: 27%;
+    margin-left: 6vw;
+    font-size: 1.7vw;
+}
+
+.section-1__apple-logo{
+    position: absolute;
+    top: 0;
+    margin-top: 35%;
+    margin-left: 6vw;
+}
+
+
+
+.section-2__header{
+    margin-top: 7%;
+    margin-left: 6vw;
+    font-size: 3vw;
+}
+
+.section-2__text{
+    margin-top: 2%;
+    margin-left: 6vw;
+    font-size: 1.7vw;
+    margin-bottom: 7vh;
+}
+
+
+.section-2__column-area{
+    padding-bottom: 26%;
+    padding-bottom: 30%;
+}
+
+.section-2__column {
+    float: left;
+    width: 20%;
+    text-align: left;
+}
+
+.section-2__column-header{
+    font-size: 1.5vw;
+}
+
+.section-2__column-text{
+    font-size: 1.3vw;
+}
+
+#column-1{
+    margin-left: 6vw;
+}
+
+#column-2 {
+    margin-left: 6.5%;
+}
+
+#column-2-header {
+    margin-bottom: 3%;
+}
+
+#column-3 {
+    margin-left: 6.5%; 
+}
+
+.section-2__advantage-picture{
+    width: 8vw;
+}
+
+.section-3__picture{
+    /* margin-left: -0.7%; */
+    /* width: 100vw;
+    margin-left: 0;
+    padding-left: 0;
+    margin: 0vw;
+    padding: 0vw; */
+    margin: -2.1vw;
+    padding: 0%;
+    width: 102.1vw;
+}
+
+.section-4{
+    background-color: #23232D;
+    /* margin-left: -1%;
+    margin-right: -1%;
+    margin-top: -2%; */
+    text-align: center;
+
+    margin: -2.1vw;
+    padding: 0%;
+    width: 102.1vw;
+
+}
+
+.section-4__header{
+    padding-top: 20vh;
+    padding-bottom: 6vh;
+    color: white;
+    font-size: 2.5vw;
+}
+
+.section-4__apple-logo{
+    padding-bottom: 13vh;
+}
+
+footer{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    margin-right: -2.5%;
+    margin-left: -2.5%;
+    margin-top: -2.5%;
+}
+
+
+/* prior stuff commented below */
+
+#footer-links{
+    margin-top: 6.5%;
+    /* margin-top: 7.5%; */
+    /* margin-top: 1.5%; */
+    float: right;
+    margin-right: 7.5%;
+}
+
+.footer-link{
+    display: inline;
+    font-size: 1.0vw;
+}
+
+#eureka-logo-in-footer{
+    /* padding-top: 1.5%; */
+    /* padding-top: -3%; */
+    margin-left: 10.7%;
+    font-size:3vw;
+    padding-bottom: 0; 
+    margin-bottom: 0;
+}
+
+#company-address{
+    margin-left: 10.7%;
+    padding-bottom: 0%;
+    padding-top: 0; 
+    margin-top: 0;
+    padding-bottom: 0; 
+    margin-bottom: 0;
+}
+
+#by-eureka{
+    font-size: 1.4vw;
+    margin-left: 10.7%;
+    padding-top: 0; 
+    margin-top: 0;
+    font-weight: bold;
+    padding-bottom: 3vh;
+}
