@@ -86,6 +86,18 @@ a{
     margin-bottom: 7vh;
 }
 
+@media only screen and (max-width: 600px) {
+    .section-2__text{
+        margin-bottom: 4vh;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .section-2__text{
+        margin-bottom: 2vh;
+    }
+}
+
 
 .section-2__column-area{
     padding-bottom: 26%;
