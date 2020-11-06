@@ -164,14 +164,17 @@ a{
 }
 
 .section-4__header{
-    padding-top: 20vh;
-    padding-bottom: 6vh;
+    /* padding-top: 20vh; */
+    padding-top: 9%;
+    /* padding-bottom: 6vh; */
+    padding-bottom: 3%;
     color: white;
     font-size: 2.5vw;
 }
 
 .section-4__apple-logo{
-    padding-bottom: 13vh;
+    /* padding-bottom: 13vh; */
+    padding-bottom: 6%;
 }
 
 footer{
@@ -217,6 +220,7 @@ footer{
     margin-top: 0;
     padding-bottom: 0; 
     margin-bottom: 0;
+    font-size: 1.3vw;
 }
 
 #by-eureka{
