@@ -1,18 +1,12 @@
-/* html, body {
+html, body {
     margin: 0px;
     padding: 0px;
-    background: url("http://digital.bnint.com/filelib/s9/photos/white_wood_4500x3000_lo_res.jpg");
-} */
+    /* background: url("http://digital.bnint.com/filelib/s9/photos/white_wood_4500x3000_lo_res.jpg"); */
+}
 
 .carousel {
     position: relative;
-    /* box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.64); */
     margin-top: 26px;
-    /* below david added */
-    margin: -2.1vw;
-    padding: 0%;
-    width: 102.1vw;
-    width: 108vw;
 }
 
 .carousel-inner {
@@ -29,8 +23,8 @@
 .carousel-item {
     position: absolute;
     opacity: 0;
-    /* -webkit-transition: opacity 0.6s ease-out;
-    transition: opacity 0.6s ease-out; */
+    -webkit-transition: opacity 0.6s ease-out;
+    transition: opacity 0.6s ease-out;
 }
 
 .carousel-item img {
@@ -61,12 +55,10 @@
 
 .carousel-control.prev {
     left: 2%;
-    /* left: 2vw; */
 }
 
 .carousel-control.next {
     right: 2%;
-    /* right: 0.7vw; */
 }
 
 .carousel-control:hover {
