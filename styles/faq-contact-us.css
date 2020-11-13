@@ -112,6 +112,7 @@ a{
 
 .faq-contact-us__section-2__header{
     margin-top: 20vh;
+    margin-top: 20%;
     margin-left: 6vw;
     color: #D6BB9C;
     font-size: 2vw;
@@ -160,6 +161,7 @@ a{
 
 .faq-contact-us__section-2__form{
     margin-top: 15vh;
+    margin-top: 15%;
     /* margin-top: 15%; */
     margin-left: 4vw;
     background-color: #D6BB9C;
@@ -185,7 +187,10 @@ a{
 
 .faq-contact-us__section-2__form__message{
     width: 29vw;
+    max-width: 29vw;
     height: 20vh;
+    height: 8vh;
+    max-height: 25vh;
     margin-left: 2.5vw;
 }
 
