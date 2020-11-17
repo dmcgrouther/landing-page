@@ -30,7 +30,8 @@ html, body {
 .carousel-item img {
     display: block;
     height: auto;
-    max-width: 100%;
+    /* max-width: 100%; got rid of this line and added below to make it scale appropriately */
+    width: 100vw;
 }
 
 .carousel-control {
