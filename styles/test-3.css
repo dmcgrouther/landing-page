@@ -31,7 +31,7 @@ html, body {
     display: block;
     height: auto;
     /* max-width: 100%; got rid of this line and added below to make it scale appropriately */
-    width: 103vw;
+    width: 108vw;
 }
 
 .carousel-control {
