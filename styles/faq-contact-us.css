@@ -111,24 +111,25 @@ a{
 }
 
 .faq-contact-us__section-2__header{
-    margin-top: 20vh;
-    margin-top: 20%;
-    margin-left: 6vw;
+    /* margin-top: 20vh;
+    margin-top: 20%; */
+    /* margin-left: 6vw; */
+    text-align: center;
+    padding-top: 4%;
     color: #D6BB9C;
-    font-size: 2vw;
+    font-size: 3vw;
 }
 
 .faq-contact-us__section-2__second-header{
     color: #FFFFFF;
-    margin-left: 6vw;
     font-size: 3.4vw;
-    /* color: red; */
+    text-align: center;
 }
 
 .faq-contact-us__section-2__sentence{
     color: #FFFFFF;
-    margin-left: 6vw;
     font-size: 1.5vw;
+    text-align: center;
 }
 
 .faq-contact-us__section-2__general-inquiries{
@@ -138,34 +139,12 @@ a{
     font-size: 1.5vw;
 }
 
-.faq-contact-us__section-2__email-address{
-    margin-left: 6vw;
-    color: white;
-    font-size: 1.5vw;
-}
-
-
-.faq-contact-us__section-2__column {
-    background-color: #23232D;
-    float: left;
-    width: 50%;
-    height: 90vh;
-  }
-  
-  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-  /* @media screen and (max-width: 600px) {
-    .faq-contact-us__section-2__column {
-      width: 100%;
-    }
-  } */
-
 .faq-contact-us__section-2__form{
-    margin-top: 15vh;
-    margin-top: 15%;
-    /* margin-top: 15%; */
-    margin-left: 4vw;
+    margin: auto;
+    margin-top: 5%;
+    align-items: center;
     background-color: #D6BB9C;
-    width: 70%;
+    width: 34%;
     border-radius: 4px;
 }
 
@@ -195,12 +174,23 @@ a{
 }
 
 .faq-contact-us__section-2__form__button{
-    margin-top: 1.2vw;
-    margin-bottom: 3vw;
-    margin-left: 20vw;
+    /* margin-top: 1.2vw; */
+    /* margin-left: 72%; */
+    margin-left: 2.5vw;
+    margin-top: 2.5%;
+    /* margin-bottom: 3vw;
+    margin-left: 20vw; */
+    margin-bottom: 3%;
+    /* margin: auto; */
     font-size: 2.5vw;
 }
 
+.faq-contact-us__section-2__email-address{
+    color: white;
+    font-size: 1.5vw;
+    text-align: center;
+    margin-top: 2.5%;
+}
 
 
 footer{
@@ -233,6 +223,7 @@ footer{
     margin-top: 0;
     padding-bottom: 0; 
     margin-bottom: 0;
+    font-size: 1.3vw;
 }
 
 #by-eureka {
