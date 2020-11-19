@@ -132,13 +132,6 @@ a{
     text-align: center;
 }
 
-.faq-contact-us__section-2__general-inquiries{
-    color: white;
-    margin-left: 6vw;
-    margin-top: 5vh;
-    font-size: 1.5vw;
-}
-
 .faq-contact-us__section-2__form{
     margin: auto;
     margin-top: 5%;
@@ -238,8 +231,14 @@ footer{
     padding-bottom: 3.5vh;
 }
 
-/* @media only screen and (max-width: 400px) {
+@media only screen and (max-width: 400px) {
     #break-in-footer {
         display: none;
     }
-  } */
+    .faq-contact-us__section-2__form{
+        width: 35%;
+    }
+    .faq-contact-us__section-2__form__break-at-top{
+        display: none;
+    }
+  }
