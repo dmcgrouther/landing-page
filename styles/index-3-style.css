@@ -41,6 +41,7 @@
     font-size: 1.5vw;
     margin-left: 3.5%;
     color: black;
+    font-family: roboto;
 }
 
 @media only screen and (max-width: 400px){
@@ -69,6 +70,7 @@ a{
     margin-top: 27%;
     margin-left: 6vw;
     font-size: 1.7vw;
+    font-family: roboto;
 }
 
 .section-1__apple-logo{
@@ -91,6 +93,7 @@ a{
     margin-left: 6vw;
     font-size: 1.7vw;
     margin-bottom: 7vh;
+    font-family: roboto;
 }
 
 @media only screen and (max-width: 600px) {
@@ -119,10 +122,13 @@ a{
 
 .section-2__column-header{
     font-size: 1.5vw;
+    font-family: roboto;
+    font-weight: bold;
 }
 
 .section-2__column-text{
     font-size: 1.3vw;
+    font-family: roboto;
 }
 
 #column-1{
@@ -193,6 +199,7 @@ footer{
     margin: -2.1vw;
     padding: 0%;
     width: 102.1vw;
+    font-family: roboto;
 }
 
 
