@@ -41,7 +41,8 @@
     display: inline-block;
     font-size: 1.5vw;
     margin-left: 3.5%;
-    color: black;
+    color: #FFFFFF;
+    font-family: roboto;
 }
 
 a{
@@ -118,6 +119,7 @@ a{
     padding-top: 4%;
     color: #D6BB9C;
     font-size: 3vw;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 .faq-contact-us__section-2__second-header{
@@ -130,6 +132,7 @@ a{
     color: #FFFFFF;
     font-size: 1.5vw;
     text-align: center;
+    font-family: roboto;
 }
 
 .faq-contact-us__section-2__form{
@@ -139,6 +142,7 @@ a{
     background-color: #D6BB9C;
     width: 34%;
     border-radius: 4px;
+    font-family: roboto;
 }
 
 .faq-contact-us__section-2__form__input{
@@ -191,6 +195,7 @@ a{
 footer{
     background-color: #000000;
     color: white;
+    font-family: roboto;
 }
 
 #footer-links{
