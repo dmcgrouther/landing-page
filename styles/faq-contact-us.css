@@ -66,8 +66,8 @@ a{
 }
 
 .faq-contact-us__section-1__text-area{
-    margin-left: 4vw;
-    margin-right: 4vw;
+    margin-left: 8vw;
+    margin-right: 8vw;
     margin-bottom: 3%;
     margin-top: 3%;
 }
@@ -88,7 +88,7 @@ a{
 
 .faq-contact-us__section-1__text-portion__question {
     margin-left: 2vw;
-    font-size: 1.3vw;
+    font-size: 1.6vw;
     font-family: roboto;
     color: #323232;
     font-weight: bold;
@@ -180,7 +180,9 @@ a{
     margin-left: 20vw; */
     margin-bottom: 3%;
     /* margin: auto; */
-    font-size: 2.5vw;
+    font-size: 1.8vw;
+    border-radius: 6px;
+    background-color: #D6BB9C;
 }
 
 .faq-contact-us__section-2__email-address{
