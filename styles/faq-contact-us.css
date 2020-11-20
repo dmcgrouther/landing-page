@@ -185,12 +185,22 @@ a{
     background-color: #D6BB9C;
 }
 
+.faq-contact-us__section-2__general-inquiries{
+    color: white;
+    font-size: 1.5vw;
+    text-align: center;
+    margin-top: 2%;
+    /* margin-bottom: 4%; */
+    font-family: roboto;
+}
+
 .faq-contact-us__section-2__email-address{
     color: white;
     font-size: 1.5vw;
     text-align: center;
-    margin-top: 4%;
+    /* margin-top: 4%; */
     margin-bottom: 4%;
+    font-family: roboto;
 }
 
 
