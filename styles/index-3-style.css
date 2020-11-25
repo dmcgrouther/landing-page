@@ -62,6 +62,7 @@ a{
     margin-left: 6vw;
     font-size: 3vw;
     color: black;
+    font-family: "Times", Times, serif;
 }
 
 .section-1__text{
@@ -86,6 +87,7 @@ a{
     margin-top: 7%;
     margin-left: 6vw;
     font-size: 3vw;
+    font-family: "Times", Times, serif;
 }
 
 .section-2__text{
@@ -188,6 +190,7 @@ a{
     padding-bottom: 3%;
     color: white;
     font-size: 2.5vw;
+    font-family: "Times", Times, serif;
 }
 
 .section-4__apple-logo{
