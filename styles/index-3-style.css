@@ -158,9 +158,10 @@ a{
     padding-left: 0;
     margin: 0vw;
     padding: 0vw; */
-    margin: -2.1vw;
+    /* below was commented out */
+    /* margin: -2.1vw;
     padding: 0%;
-    width: 102.1vw;
+    width: 102.1vw; */
 }
 
 .section-4{
