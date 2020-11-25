@@ -151,7 +151,7 @@ a{
     width: 8vw;
 }
 
-.section-3__picture{
+/* .section-3__picture{ */
     /* margin-left: -0.7%; */
     /* width: 100vw;
     margin-left: 0;
@@ -162,6 +162,10 @@ a{
     /* margin: -2.1vw;
     padding: 0%;
     width: 102.1vw; */
+/* } */
+
+.carousel-inner {
+    margin: 0;
 }
 
 .section-4{
