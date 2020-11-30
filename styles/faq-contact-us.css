@@ -251,6 +251,12 @@ footer{
     padding-bottom: 3.5vh;
 }
 
+@media only screen and (max-width: 975px) {
+    .faq-contact-us__section-2__form__break-at-top__first-break {
+        display: none;
+    }
+}
+
 @media only screen and (max-width: 400px) {
     #break-in-footer {
         display: none;
