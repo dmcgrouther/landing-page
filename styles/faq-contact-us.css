@@ -49,6 +49,14 @@ a{
     text-decoration:none;
 }
 
+.current-page-selected{
+    border-bottom: 4px solid #ffffff;
+    border-bottom-left-radius: 2px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+
 .top-section__header{
     position: absolute;
     top: 0;
