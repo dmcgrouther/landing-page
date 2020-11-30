@@ -50,11 +50,11 @@ a{
 }
 
 .current-page-selected{
-    border-bottom: 4px solid #ffffff;
-    border-bottom-left-radius: 2px;
-    border-top-left-radius: 2px;
-    border-top-right-radius: 2px;
-    border-bottom-right-radius: 2px;
+    border-bottom: 0.4vw solid #ffffff;
+    border-bottom-left-radius: 0.2vw;
+    border-bottom-right-radius: 0.2vw;
+    border-top-left-radius: 0.2vw;
+    border-top-right-radius: 0.2vw;
 }
 
 .top-section__header{
