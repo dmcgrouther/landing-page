@@ -32,7 +32,8 @@
     position: absolute;
     width: 99%;
     right: 8vw;
-    top: 1%;
+    /* top: 1%; */
+    top: 0;
     text-align: right;
 }
 
@@ -160,6 +161,12 @@ a{
     margin-left: 2.5vw;
     margin-bottom: 0.8vw;
     height: 2vw;
+}
+
+@media only screen and (max-width: 400px) {
+    .faq-contact-us__section-2__form__input {
+        height: 4vw;
+    }
 }
 
 .faq-contact-us__section-2__form__label__first-label{
