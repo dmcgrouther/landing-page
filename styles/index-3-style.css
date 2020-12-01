@@ -180,9 +180,13 @@ a{
     width: 102.1vw; */
 /* } */
 
-.carousel-inner {
-    margin: 0;
+.section-3{
+    width: 100%;
 }
+
+/* .carousel-inner {
+    margin: 0;
+} */
 
 .section-4{
     background-color: #23232D;
