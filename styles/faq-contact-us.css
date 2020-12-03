@@ -166,6 +166,10 @@ a{
     height: 2vw;
 }
 
+input, textarea {
+    font-size: 1.3vw;
+}
+
 @media only screen and (max-width: 400px) {
     .faq-contact-us__section-2__form__input {
         height: 4vw;
