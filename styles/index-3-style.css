@@ -140,9 +140,9 @@ a{
 }
 
 .section-2__column-header{
-    font-size: 1.6vw;
+    font-size: 1.5vw;
     font-family: 'Roboto', sans-serif;
-    font-weight: bold;
+    font-weight: 500;
     margin-top: 1.2vw;
     margin-bottom: 1.2vw;
 }
@@ -253,6 +253,7 @@ footer{
     font-size: 2.5vw;
     padding-bottom: 0; 
     margin-bottom: 0;
+    font-weight: 700;
 }
 
 #company-address{
@@ -266,11 +267,11 @@ footer{
 }
 
 #by-eureka{
-    font-size: 1.4vw;
+    font-size: 1.3vw;
     margin-left: 10.7%;
     padding-top: 0; 
     margin-top: 0;
-    font-weight: bold;
+    font-weight: 700;
     /* padding-bottom: 3vh; */
     padding-bottom: 2%;
 }
