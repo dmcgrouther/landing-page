@@ -78,7 +78,8 @@ a{
 .section-1__header{
     position: absolute;
     top: 0;
-    margin-top: 18%;
+    /* margin-top: 18%; */
+    margin-top: 16%;
     margin-left: 6vw;
     font-size: 3vw;
     /* font-size: 40px; */
@@ -90,7 +91,8 @@ a{
 .section-1__text{
     position: absolute;
     top: 0;
-    margin-top: 27%;
+    /* margin-top: 27%; */
+    margin-top: 25%;
     margin-left: 6vw;
     font-size: 1.7vw;
     font-family: roboto;
@@ -99,7 +101,8 @@ a{
 .section-1__apple-logo{
     position: absolute;
     top: 0;
-    margin-top: 35%;
+    /* margin-top: 35%; */
+    margin-top: 33%;
     margin-left: 6vw;
 }
 
@@ -211,7 +214,8 @@ a{
     /* padding-top: 20vh; */
     padding-top: 9%;
     /* padding-bottom: 6vh; */
-    padding-bottom: 3%;
+    /* padding-bottom: 3%; */
+    padding-bottom: 7%;
     color: white;
     font-size: 2.5vw;
     font-family: "Times", Times, serif;
